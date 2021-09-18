@@ -1,0 +1,48 @@
+/Users/nikita/Documents/c#/Game/bin/Debug/net5.0/Game.deps.json
+/Users/nikita/Documents/c#/Game/bin/Debug/net5.0/Game.runtimeconfig.json
+/Users/nikita/Documents/c#/Game/bin/Debug/net5.0/Game.runtimeconfig.dev.json
+/Users/nikita/Documents/c#/Game/bin/Debug/net5.0/Game.dll
+/Users/nikita/Documents/c#/Game/bin/Debug/net5.0/ref/Game.dll
+/Users/nikita/Documents/c#/Game/bin/Debug/net5.0/Game.pdb
+/Users/nikita/Documents/c#/Game/obj/Debug/net5.0/Game.csproj.AssemblyReference.cache
+/Users/nikita/Documents/c#/Game/obj/Debug/net5.0/Game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikita/Documents/c#/Game/obj/Debug/net5.0/Game.AssemblyInfoInputs.cache
+/Users/nikita/Documents/c#/Game/obj/Debug/net5.0/Game.AssemblyInfo.cs
+/Users/nikita/Documents/c#/Game/obj/Debug/net5.0/Game.csproj.CoreCompileInputs.cache
+/Users/nikita/Documents/c#/Game/obj/Debug/net5.0/Game.dll
+/Users/nikita/Documents/c#/Game/obj/Debug/net5.0/ref/Game.dll
+/Users/nikita/Documents/c#/Game/obj/Debug/net5.0/Game.pdb
+/Users/nikita/Documents/c#/Game/obj/Debug/net5.0/Game.genruntimeconfig.cache
+C:/Users/aliaksandr.zalatukhi/Downloads/Telegram Desktop/Game/Game/bin/Debug/net5.0/Game.exe
+C:/Users/aliaksandr.zalatukhi/Downloads/Telegram Desktop/Game/Game/bin/Debug/net5.0/Game.deps.json
+C:/Users/aliaksandr.zalatukhi/Downloads/Telegram Desktop/Game/Game/bin/Debug/net5.0/Game.runtimeconfig.json
+C:/Users/aliaksandr.zalatukhi/Downloads/Telegram Desktop/Game/Game/bin/Debug/net5.0/Game.runtimeconfig.dev.json
+C:/Users/aliaksandr.zalatukhi/Downloads/Telegram Desktop/Game/Game/bin/Debug/net5.0/Game.dll
+C:/Users/aliaksandr.zalatukhi/Downloads/Telegram Desktop/Game/Game/bin/Debug/net5.0/ref/Game.dll
+C:/Users/aliaksandr.zalatukhi/Downloads/Telegram Desktop/Game/Game/bin/Debug/net5.0/Game.pdb
+C:/Users/aliaksandr.zalatukhi/Downloads/Telegram Desktop/Game/Game/obj/Debug/net5.0/Game.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/aliaksandr.zalatukhi/Downloads/Telegram Desktop/Game/Game/obj/Debug/net5.0/Game.AssemblyInfoInputs.cache
+C:/Users/aliaksandr.zalatukhi/Downloads/Telegram Desktop/Game/Game/obj/Debug/net5.0/Game.AssemblyInfo.cs
+C:/Users/aliaksandr.zalatukhi/Downloads/Telegram Desktop/Game/Game/obj/Debug/net5.0/Game.csproj.CoreCompileInputs.cache
+C:/Users/aliaksandr.zalatukhi/Downloads/Telegram Desktop/Game/Game/obj/Debug/net5.0/Game.dll
+C:/Users/aliaksandr.zalatukhi/Downloads/Telegram Desktop/Game/Game/obj/Debug/net5.0/ref/Game.dll
+C:/Users/aliaksandr.zalatukhi/Downloads/Telegram Desktop/Game/Game/obj/Debug/net5.0/Game.pdb
+C:/Users/aliaksandr.zalatukhi/Downloads/Telegram Desktop/Game/Game/obj/Debug/net5.0/Game.genruntimeconfig.cache
+C:/Users/aliaksandr.zalatukhi/Downloads/Telegram Desktop/Game/Game/obj/Debug/net5.0/Game.csproj.AssemblyReference.cache
+/Users/nikita/Documents/c#/Game/Game/obj/Debug/net5.0/Game.csproj.AssemblyReference.cache
+/Users/nikita/Documents/c#/Game/Game/obj/Debug/net5.0/Game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikita/Documents/c#/Game/Game/obj/Debug/net5.0/Game.AssemblyInfoInputs.cache
+/Users/nikita/Documents/c#/Game/Game/obj/Debug/net5.0/Game.AssemblyInfo.cs
+/Users/nikita/Documents/c#/Game/Game/obj/Debug/net5.0/Game.csproj.CoreCompileInputs.cache
+/Users/nikita/Documents/c#/Game/Game/obj/Debug/net5.0/Game.dll
+/Users/nikita/Documents/c#/Game/Game/obj/Debug/net5.0/ref/Game.dll
+/Users/nikita/Documents/c#/Game/Game/obj/Debug/net5.0/Game.pdb
+/Users/nikita/Documents/c#/Game/Game/bin/Debug/net5.0/Game.deps.json
+/Users/nikita/Documents/c#/Game/Game/bin/Debug/net5.0/Game.runtimeconfig.json
+/Users/nikita/Documents/c#/Game/Game/bin/Debug/net5.0/Game.runtimeconfig.dev.json
+/Users/nikita/Documents/c#/Game/Game/bin/Debug/net5.0/Game.dll
+/Users/nikita/Documents/c#/Game/Game/bin/Debug/net5.0/ref/Game.dll
+/Users/nikita/Documents/c#/Game/Game/bin/Debug/net5.0/Game.pdb
+/Users/nikita/Documents/c#/Game/Game/obj/Debug/net5.0/Game.genruntimeconfig.cache
+/Users/nikita/Documents/c#/Game/Game/obj/Debug/net5.0/Game.csproj.CopyComplete
+/Users/nikita/Documents/c#/Game/Game/bin/Debug/net5.0/ConsoleTableExt.dll
